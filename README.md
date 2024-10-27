@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Laiq1984
+- 🌱 I’m currently learning C# and Python
+- 📫 lukid1984@gmail.com
